@@ -8,7 +8,6 @@ Sample User Interfaces I designed using Adobe xd
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
-* [License](#license)
 * [Contributing](#contributing)
 
 
@@ -16,11 +15,11 @@ Sample User Interfaces I designed using Adobe xd
 
 GameBoard          |  Job Categories Screen
 :-------------------------:|:-------------------------:
-![First Figma Design](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%201.png)|![Job Listings](https://user-images.githubusercontent.com/19711677/81026691-9067e300-8e40-11ea-8153-0030aaf11ae3.png)
+![MAIN PAGE](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%201.png)|![LOGIN](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%202.png)
 
 Job Categories Screen  |  Client List Screen
 :-------------------------:|:-------------------------:
-![Job Listings](https://user-images.githubusercontent.com/19711677/81029657-75e73700-8e4b-11ea-90b6-646ec42aee43.png)|![Category Jobs](https://user-images.githubusercontent.com/19711677/81029655-71bb1980-8e4b-11ea-98ba-f2dba813932d.png)
+![SIGN UP](https://user-images.githubusercontent.com/19711677/81029657-75e73700-8e4b-11ea-90b6-646ec42aee43.png)|![ON BOARDING](https://user-images.githubusercontent.com/19711677/81029655-71bb1980-8e4b-11ea-98ba-f2dba813932d.png)
 
 
 ## Technologies
