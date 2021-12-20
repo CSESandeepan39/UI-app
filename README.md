@@ -1,5 +1,14 @@
 # UI-Designs
 Sample User Interfaces I designed using Adobe xd
+![mobile screens](https://user-images.githubusercontent.com/79747022/141756471-a1dabfed-ba45-4c4b-bd7b-aa9f30a5cd9b.png)
+
+
+<div align="center">
+
+<a href="https://github.com/Dezenix/ios-screens"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/Dezenix/ios-screens"><img src="https://img.shields.io/badge/Built%20by-Designers-0059b3"></a>
+<a href="https://github.com/Dezenix/ios-screens"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=aqua"></a>
+<a href="https://github.com/smaranjitghose/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
 
 ## Table of contents
 * [Screenshots](#screenshots)
