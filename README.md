@@ -16,7 +16,7 @@ Sample User Interfaces I designed using Adobe xd
 
 GameBoard          |  Job Categories Screen
 :-------------------------:|:-------------------------:
-![First Figma Design](https://user-images.githubusercontent.com/19711677/81022717-f0a45800-8e33-11ea-8c6c-4651abd1eb4a.png)|![Job Listings](https://user-images.githubusercontent.com/19711677/81026691-9067e300-8e40-11ea-8153-0030aaf11ae3.png)
+![First Figma Design](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%201.png)|![Job Listings](https://user-images.githubusercontent.com/19711677/81026691-9067e300-8e40-11ea-8153-0030aaf11ae3.png)
 
 Job Categories Screen  |  Client List Screen
 :-------------------------:|:-------------------------:
