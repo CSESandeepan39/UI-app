@@ -9,6 +9,7 @@ Sample User Interfaces I designed using Adobe xd <br><br>
 <a href="https://github.com/Dezenix/ios-screens"><img src="https://img.shields.io/badge/Built%20by-Designers-0059b3"></a>
 <a href="https://github.com/Dezenix/ios-screens"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=aqua"></a>
 <a href="https://github.com/smaranjitghose/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
 
 ## Table of contents
