@@ -19,7 +19,7 @@ GameBoard          |  Job Categories Screen
 
 Job Categories Screen  |  Client List Screen
 :-------------------------:|:-------------------------:
-![SIGN UP](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%203.png)|![ON BOARDING](https://user-images.githubusercontent.com/19711677/81029655-71bb1980-8e4b-11ea-98ba-f2dba813932d.png)
+![SIGN UP](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%203.png)|![ON BOARDING](https://github.com/CSESandeepan39/UI-app/blob/main/Google%20Pixel%204%2C%204XL%20–%204.png)
 
 
 ## Technologies
